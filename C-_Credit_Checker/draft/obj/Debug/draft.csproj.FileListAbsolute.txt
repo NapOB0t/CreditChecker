@@ -1,0 +1,15 @@
+C:\Users\mphel\source\repos\draft\draft\bin\Debug\draft.exe.config
+C:\Users\mphel\source\repos\draft\draft\bin\Debug\draft.exe
+C:\Users\mphel\source\repos\draft\draft\bin\Debug\draft.pdb
+C:\Users\mphel\source\repos\draft\draft\obj\Debug\draft.csproj.AssemblyReference.cache
+C:\Users\mphel\source\repos\draft\draft\obj\Debug\draft.csproj.SuggestedBindingRedirects.cache
+C:\Users\mphel\source\repos\draft\draft\obj\Debug\draft.csproj.CoreCompileInputs.cache
+C:\Users\mphel\source\repos\draft\draft\obj\Debug\draft.exe
+C:\Users\mphel\source\repos\draft\draft\obj\Debug\draft.pdb
+C:\Users\mphel\Desktop\Mphela Cv work\Credit_Checker\draft\bin\Debug\draft.exe.config
+C:\Users\mphel\Desktop\Mphela Cv work\Credit_Checker\draft\bin\Debug\draft.exe
+C:\Users\mphel\Desktop\Mphela Cv work\Credit_Checker\draft\bin\Debug\draft.pdb
+C:\Users\mphel\Desktop\Mphela Cv work\Credit_Checker\draft\obj\Debug\draft.csproj.AssemblyReference.cache
+C:\Users\mphel\Desktop\Mphela Cv work\Credit_Checker\draft\obj\Debug\draft.csproj.CoreCompileInputs.cache
+C:\Users\mphel\Desktop\Mphela Cv work\Credit_Checker\draft\obj\Debug\draft.exe
+C:\Users\mphel\Desktop\Mphela Cv work\Credit_Checker\draft\obj\Debug\draft.pdb
